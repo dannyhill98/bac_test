@@ -1,0 +1,119 @@
+.tracking-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    gap: 10px;
+}
+
+.tracking-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.tracking-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.tracking-input-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.tracking-numbers{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    width: 100%;
+}
+
+.tracking-number{
+    cursor: pointer;
+}
+
+.tracking-items-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+}
+
+.tracking-item{
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    gap: 10px;
+    width: 80%;
+    height: 100%;
+}
+
+.tracking-item-date-time{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+    gap: 4px;
+    width: 20%;
+}
+
+.tracking-item-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    gap: 4px;
+}
+
+.step-line{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100%;
+    width: 6%;
+}
+
+.vertical-line{
+    display: flex;
+    background-color: gray;
+    height: 30px;
+    width: 2px;
+}
+
+.delivered{
+    height: 25px;
+    width: 25px; 
+    background-color: green;
+    border-radius: 50%;
+}
+
+.created{
+    height: 25px;
+    width: 25px; 
+    background-color: red;
+    border-radius: 50%;
+}
+
+.step{
+    height: 15px;
+    width: 15px; 
+    background-color: gray;
+    border-radius: 50%;
+}
