@@ -2,7 +2,7 @@
   "name": "bac_api",
   "version": "1.0.0",
   "description": "",
-  "exports": "./index.js",
+  "exports": "./index.mjs",
   "type": "module",
   "scripts": {
     "start": "node index",
