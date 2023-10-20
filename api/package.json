@@ -2,8 +2,7 @@
   "name": "bac_api",
   "version": "1.0.0",
   "description": "",
-  "exports": "./index.mjs",
-  "type": "module",
+  "main": "index.js",
   "scripts": {
     "start": "node index",
     "dev": "nodemon index",
