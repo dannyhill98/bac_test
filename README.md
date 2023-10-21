@@ -47,6 +47,7 @@ $ npm run dev
 ### API (Express) run on port 3001 [Click Here](http://localhost:3001).
 
 ### Run API Tests
+jest + supertest
 ```
 
 # Go into api folder
