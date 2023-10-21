@@ -17,7 +17,7 @@ Basic Client (React + Vite, basic CSS, no complex styles, no responsive, no CSS 
 
 `GET /Tracking_parcel/`
 
-tracking_number=BPS1EP58YI5SKBR
+`tracking_number=BPS1EP58YI5SKBR`
 
 ## Run Local
 
