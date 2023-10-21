@@ -7,9 +7,9 @@
 
 ## Client Routes
 
-`GET /login/` [Click Here](https://bac-test-client.vercel.app/login)
+`GET /login/`
 
-`GET /tracking/` [Click Here](https://bac-test-client.vercel.app/tracking)
+`GET /tracking/`
 
 ## API Routes 
 
