@@ -8,16 +8,18 @@ Basic Client (React + Vite, basic CSS, no complex styles, no responsive, no CSS 
 ## API Routes 
 
 `POST /Generate_Token/`
-
+```json
 {
     "username": "username",
     "password": "password" 
 }
+```
 
 
 `GET /Tracking_parcel/`
-
-`tracking_number=BPS1EP58YI5SKBR`
+```json
+tracking_number=BPS1EP58YI5SKBR
+```
 
 ## Run Local
 
