@@ -1,9 +1,15 @@
 # bac_test
 ### Basic Client (React + Vite, basic CSS, no complex styles, no responsive, no CSS framework) + Basic API (Express)
 
-### Client (React+Vite) deployed in Vercel Serverless Function [Click Here](https://bac-test-client.vercel.app/login).
+### Client (React+Vite) deployed in Vercel Serverless Function [Click Here](https://bac-test-client.vercel.app/).
 
 ### API (Express) deployed in Vercel Serverless Function [Click Here](https://bac-test-api.vercel.app/).
+
+## Client Routes
+
+`GET /login/` [Click Here](https://bac-test-client.vercel.app/login)
+
+`GET /tracking/` [Click Here](https://bac-test-client.vercel.app/tracking)
 
 ## API Routes 
 
