@@ -5,5 +5,5 @@ const server = http.createServer(app);
 const port = process.env.PORT ?? 3001;
 
 server.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+  console.log(`Express Api running on port ${port}`);
 });

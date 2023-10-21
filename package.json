@@ -1,0 +1,23 @@
+{
+  "name": "bac_test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "api": "cd api && npm install && npm run dev",
+    "client": "cd client && npm install && npm run dev",
+    "dev": "concurrently \"npm run api\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyhill98/bac_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyhill98/bac_test/issues"
+  },
+  "homepage": "https://github.com/dannyhill98/bac_test#readme",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
